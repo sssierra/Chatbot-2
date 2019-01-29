@@ -1,0 +1,38 @@
+img
+{
+  height: 160px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+button, #input1, #input2, #output
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#title
+{
+  text-align: center;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 49px;
+  background-color: darkred;
+  color: white;
+}
+button
+{
+  border: solid;
+  border-color: darkred;
+  background-color: darkred;
+  height: 30px;
+  width: 205px;
+  color: white;
+}
+#output
+{
+  width: 199px;
+}
+#input
+{
+  width: 201px;
+}
